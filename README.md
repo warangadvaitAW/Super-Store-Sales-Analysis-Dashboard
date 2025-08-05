@@ -84,5 +84,3 @@ Performed in Power Query:
 3. Read the Summary Slide for final takeaways
 
 ---
-
-> Created as part of the Data Analyst Internship: Task 2 – Visualization & Storytelling
